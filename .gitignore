@@ -1,0 +1,21 @@
+# Carpetas de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de entorno virtual
+.env
+.venv/
+env/
+venv/
+
+# Archivos de log
+*.log
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
